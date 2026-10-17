@@ -1,0 +1,19 @@
+.name{
+    text-align: center;
+    color: aqua;
+    font-style: italic;
+    font-size: xx-large;
+}
+ .content{
+            text-align:right;
+            color: blue;
+        }
+
+body {
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeg8EHAOEaMaAP6MCq_w5Li1F655wH4y6Lg_PWU1J02JE1b4dhib50IBn&s=10');
+            background-size: cover;      
+            background-position: center; 
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+       
